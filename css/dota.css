@@ -1,0 +1,242 @@
+.version.dota /* version checker */
+{
+	color: #0000F0;
+	background-color: #74DB60;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1200px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -1px;
+}
+
+#u73
+{
+	z-index: 2;
+}
+
+#u73_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	left: -100px;
+	padding-top: 28px;
+}
+
+#pu74-3
+{
+	width: 0.01px;
+	left: 125px;
+	position: relative;
+}
+
+#u74-3
+{
+	z-index: 3;
+	width: 5px;
+	margin-right: -10000px;
+}
+
+#u75-4
+{
+	z-index: 6;
+	width: 352px;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 12px;
+}
+
+#menuu163
+{
+	z-index: 10;
+	width: 446px;
+	left: 115px;
+	margin-top: 30px;
+}
+
+#u164
+{
+	width: 222px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u165
+{
+	width: 222px;
+	padding-bottom: 17px;
+}
+
+#u165:hover
+{
+	margin: 0px;
+}
+
+#u165:active
+{
+	margin: 0px;
+}
+
+#u167-4
+{
+	width: 222px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u165:hover #u167-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u165:active #u167-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u204
+{
+	width: 222px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 224px;
+}
+
+#u207
+{
+	width: 222px;
+	padding-bottom: 17px;
+}
+
+#u165.MuseMenuActive,#u207:hover
+{
+	margin: 0px;
+}
+
+#u207:active
+{
+	margin: 0px;
+}
+
+#u207.MuseMenuActive
+{
+	margin: 0px;
+}
+
+#u210-4
+{
+	width: 222px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u165.MuseMenuActive #u167-4,#u207:hover #u210-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u207:active #u210-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u207.MuseMenuActive #u210-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u73-bw
+{
+	z-index: 2;
+	height: 143px;
+}
+
+#u211
+{
+	z-index: 28;
+	width: 1170px;
+	height: 185px;
+	border-color: #000000;
+	background-color: #D561FF;
+	margin-left: 15px;
+	margin-top: 28px;
+	position: relative;
+}
+
+#u192
+{
+	z-index: 23;
+	padding-bottom: 28px;
+}
+
+#u192_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	left: -100px;
+}
+
+#u195-4
+{
+	z-index: 24;
+	width: 284px;
+	min-height: 44px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 201px;
+}
+
+#u192-bw
+{
+	z-index: 23;
+	margin-top: 50px;
+	height: 67px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1200px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

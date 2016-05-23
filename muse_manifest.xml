@@ -1,4 +1,4 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1463988567772">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1463988919371">
   <folder name="images">
     <file name="road.jpg" crc="204221059" ref="index"/>
     <file name="cactus.jpg" crc="3844634984" ref="index"/>
@@ -6,20 +6,22 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
-    <file name="master_a-master.css" crc="220205875" ref="index"/>
-    <file name="index.css" crc="4212172728" ref="index"/>
+    <file name="master_a-master.css" crc="343631684" ref="index:dota"/>
+    <file name="index.css" crc="4194818183" ref="index"/>
+    <file name="dota.css" crc="4034190176" ref="dota"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index"/>
-    <file name="museutils.js" crc="4136605575" ref="index"/>
-    <file name="jquery.watch.js" crc="172956391" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:dota"/>
+    <file name="museutils.js" crc="4136605575" ref="index:dota"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index:dota"/>
     <file name="webpro.js" crc="420478120" ref="index"/>
     <file name="musewpslideshow.js" crc="480958572" ref="index"/>
     <file name="jquery.museoverlay.js" crc="184401257" ref="index"/>
     <file name="touchswipe.js" crc="60020316" ref="index"/>
-    <file name="jquery.musemenu.js" crc="4009181048" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="index:dota"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:dota"/>
     <file name="musewpdisclosure.js" crc="4228034700" ref="index"/>
   </folder>
-  <file name="index.html" crc="278411244" mt="1463988386253" redirect="true"/>
+  <file name="index.html" crc="4278325425" mt="1463988891679" redirect="true"/>
+  <file name="dota.html" crc="31025073" mt="1463988891698" redirect="true"/>
 </manifest>

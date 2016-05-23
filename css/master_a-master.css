@@ -32,12 +32,6 @@
 	position: relative;
 }
 
-#u164
-{
-	background-color: transparent;
-	position: relative;
-}
-
 #u165
 {
 	background-color: #C4C4C4;
@@ -54,12 +48,45 @@
 	background-color: #6B6B6B;
 }
 
-#u165.MuseMenuActive
+#u167-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u164,#u204
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u207
+{
+	background-color: #C4C4C4;
+	position: relative;
+}
+
+#u165.MuseMenuActive,#u207:hover
 {
 	background-color: #999999;
 }
 
-#u167-4
+#u207:active
+{
+	background-color: #6B6B6B;
+}
+
+#u207.MuseMenuActive
+{
+	background-color: #999999;
+}
+
+#u210-4
 {
 	border-style: none;
 	border-color: transparent;
