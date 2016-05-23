@@ -117,6 +117,162 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
+.wmut-source a:link
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+.wmut-source a:visited
+{
+	color: #800080;
+	text-decoration: underline;
+}
+
+.wmut-source a:hover
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+.wmut-tags a:link
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+.wmut-tags a:visited
+{
+	color: #800080;
+	text-decoration: underline;
+}
+
+.wmut-tags a:hover
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+.wmut-date a:link
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+.wmut-date a:visited
+{
+	color: #800080;
+	text-decoration: underline;
+}
+
+.wmut-date a:hover
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+.wmut-reblog a:link
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+.wmut-reblog a:visited
+{
+	color: #800080;
+	text-decoration: underline;
+}
+
+.wmut-reblog a:hover
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+.wmut-body a:link
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+.wmut-body a:visited
+{
+	color: #800080;
+	text-decoration: underline;
+}
+
+.wmut-body a:hover
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+.wmut-title a:link
+{
+	color: #353971;
+	text-decoration: inherit;
+}
+
+.wmut-title a:visited
+{
+	color: #434AB4;
+	text-decoration: inherit;
+}
+
+.wmut-title a:hover
+{
+	color: #434AB4;
+	text-decoration: inherit;
+}
+
+.wmut-post-notes a:link
+{
+	color: #353971;
+	text-decoration: inherit;
+}
+
+.wmut-post-notes a:visited
+{
+	color: #434AB4;
+	text-decoration: inherit;
+}
+
+.wmut-post-notes a:hover
+{
+	color: #434AB4;
+	text-decoration: inherit;
+}
+
+.wmut-title a:active,.wmut-post-notes a:active
+{
+	color: #696DAF;
+	text-decoration: inherit;
+}
+
+.wmut-from a:link
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+.wmut-from a:visited
+{
+	color: #800080;
+	text-decoration: underline;
+}
+
+.wmut-from a:hover
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+.wmut-source a:active,.wmut-tags a:active,.wmut-date a:active,.wmut-reblog a:active,.wmut-body a:active,.wmut-from a:active
+{
+	color: #EE0000;
+	text-decoration: underline;
+}
+
 .normal_text
 {
 	color: #000000;
