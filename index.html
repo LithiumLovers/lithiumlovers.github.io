@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "index.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "index.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -11,8 +11,8 @@
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?426517801"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?234166955"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?3806584403" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?55135422"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?372779843" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -39,6 +39,53 @@ var __adobewebfontsappname__ = "muse";
       </div>
      </div>
     </div>
+    <div class="PamphletWidget clearfix colelem" id="pamphletu120"><!-- none box -->
+     <div class="popup_anchor" id="u123popup">
+      <div class="ContainerGroup clearfix" id="u123"><!-- stack box -->
+       <div class="Container clearfix grpelem" id="u134"><!-- group -->
+        <div class="clearfix grpelem" id="u135-7"><!-- content -->
+         <p id="u135-3"><span><span class="actAsDiv normal_text" id="u136"><!-- content --><span class="actAsDiv clip_frame" id="u137"><!-- image --><img class="block" id="u137_img" src="images/road.jpg" alt="" width="128" height="85"/></span></span></span>Lorem ipsum</p>
+         <p id="u135-5">Sit amet, consectetur adipiscing elit. Aenean consectetur suscipit viverra. Morbi non arcu blandit justo pellentesque condimentum. Integer dignissim risus quis felis accumsan quis pulvinar tellus fermentum.</p>
+        </div>
+       </div>
+       <div class="Container invi clearfix grpelem" id="u129"><!-- group -->
+        <div class="clearfix grpelem" id="u130-7"><!-- content -->
+         <p id="u130-3"><span><span class="actAsDiv normal_text" id="u131"><!-- content --><span class="actAsDiv clip_frame" id="u132"><!-- image --><img class="block" id="u132_img" src="images/cactus.jpg" alt="" width="128" height="85"/></span></span></span>Mauris sit amet</p>
+         <p id="u130-5">Tortor, eget ornare urna. Duis varius tellus eros. Donec odio arcu, rutrum ac rutrum eget, bibendum ac enim. Phasellus hendrerit iacu purus. Aliquam sit amet molestie odio. Sed commodo dictum consequat.</p>
+        </div>
+       </div>
+       <div class="Container invi clearfix grpelem" id="u124"><!-- group -->
+        <div class="clearfix grpelem" id="u125-7"><!-- content -->
+         <p id="u125-3"><span id="u125"><span class="actAsDiv normal_text" id="u126"><!-- content --><span class="actAsDiv clip_frame" id="u127"><!-- image --><img class="block" id="u127_img" src="images/trees.jpg" alt="" width="128" height="85"/></span></span></span><span id="u125-2">Ut eget felis</span></p>
+         <p id="u125-5">Sed velit congue viverra. Sed porta mattis luctus. Curabitur feugiat pharetra sem eu iaculis. Phasellus venenatis volutpat arcu id placerat. Aliquam fringilla ligula eu purus lacinia at volutpat nunc malesuada.</p>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="ThumbGroup clearfix grpelem" id="u139"><!-- none box -->
+      <div class="popup_anchor">
+       <div class="Thumb popup_element clearfix" id="u140"><!-- group -->
+        <div class="clearfix grpelem" id="u141-4"><!-- content -->
+         <p>Lorem ipsum</p>
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor">
+       <div class="Thumb popup_element clearfix" id="u144"><!-- group -->
+        <div class="clearfix grpelem" id="u145-4"><!-- content -->
+         <p>Mauris sit amet</p>
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor">
+       <div class="Thumb popup_element clearfix" id="u142"><!-- group -->
+        <div class="clearfix grpelem" id="u143-4"><!-- content -->
+         <p>Ut eget felis</p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
     <div class="verticalspacer"></div>
    </div>
   </div>
@@ -51,6 +98,10 @@ var __adobewebfontsappname__ = "muse";
 </script>
   <script src="scripts/museutils.js?4136605575" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?172956391" type="text/javascript"></script>
+  <script src="scripts/webpro.js?420478120" type="text/javascript"></script>
+  <script src="scripts/musewpslideshow.js?480958572" type="text/javascript"></script>
+  <script src="scripts/jquery.museoverlay.js?184401257" type="text/javascript"></script>
+  <script src="scripts/touchswipe.js?60020316" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    $(document).ready(function() { try {
@@ -60,6 +111,7 @@ typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw E
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight()/* resize height */
+Muse.Utils.initWidget('#pamphletu120', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'mouseover',deactivationEvent:'',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false}); });/* #pamphletu120 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
