@@ -4,11 +4,6 @@
 	background-color: #42410B;
 }
 
-#u73_align_to_page
-{
-	position: relative;
-}
-
 #u74-3
 {
 	background-color: transparent;
@@ -84,5 +79,20 @@
 {
 	border-color: #000000;
 	background-color: #8CC63F;
+}
+
+#u73_align_to_page,#u192_align_to_page
+{
+	position: relative;
+}
+
+#u195-4
+{
+	background-color: transparent;
+	line-height: 36px;
+	font-size: 30px;
+	font-family: alfa-slab-one, serif;
+	font-weight: 400;
+	position: relative;
 }
 
