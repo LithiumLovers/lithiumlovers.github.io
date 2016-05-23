@@ -8,17 +8,17 @@
 {
 	background-color: transparent;
 	font-size: 36px;
-	line-height: 43px;
 	color: #FFFFFF;
+	line-height: 43px;
 	position: relative;
 }
 
 #u75-4
 {
 	background-color: transparent;
-	line-height: 43px;
-	font-size: 36px;
 	color: #FFFFFF;
+	font-size: 36px;
+	line-height: 43px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -53,8 +53,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -91,8 +91,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -116,8 +116,8 @@
 #u195-4
 {
 	background-color: transparent;
-	line-height: 36px;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: alfa-slab-one, serif;
 	font-weight: 400;
 	position: relative;

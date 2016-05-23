@@ -1,7 +1,7 @@
 .version.dota /* version checker */
 {
-	color: #0000F0;
-	background-color: #74DB60;
+	color: #0000FF;
+	background-color: #D24C38;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1200px;
-	min-height: 500px;
+	min-height: 1048px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -25,11 +25,8 @@
 #page_position_content
 {
 	margin-top: -1px;
-}
-
-#u73
-{
-	z-index: 2;
+	margin-bottom: -95px;
+	width: 0.01px;
 }
 
 #u73_align_to_page
@@ -87,11 +84,15 @@
 
 #u165:hover
 {
+	width: 222px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u165:active
 {
+	width: 222px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -108,6 +109,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
+	width: 222px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -116,6 +118,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
+	width: 222px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -135,16 +138,22 @@
 
 #u165.MuseMenuActive,#u207:hover
 {
+	width: 222px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u207:active
 {
+	width: 222px;
+	min-height: 0px;
 	margin: 0px;
 }
 
 #u207.MuseMenuActive
 {
+	width: 222px;
+	min-height: 0px;
 	margin: 0px;
 }
 
@@ -161,6 +170,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
+	width: 222px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -169,6 +179,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
+	width: 222px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -177,30 +188,125 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
+	width: 222px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u73-bw
+#u73,#u73-bw
 {
 	z-index: 2;
-	height: 143px;
+	min-height: 143px;
+}
+
+#pu211
+{
+	width: 0.01px;
+	margin-left: 15px;
+	margin-top: 45px;
 }
 
 #u211
 {
 	z-index: 28;
 	width: 1170px;
-	height: 185px;
 	border-color: #000000;
 	background-color: #D561FF;
-	margin-left: 15px;
-	margin-top: 28px;
+	padding-bottom: 401px;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u215
+{
+	z-index: 29;
+	width: 212px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 104px;
+	left: 84px;
+}
+
+#u216-24
+{
+	z-index: 30;
+	width: 172px;
+	min-height: 287px;
+	position: relative;
+	margin-right: -10000px;
+	padding: 10px 10px 17px 30px;
+}
+
+.rss-text-styles
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #EDEDED;
+}
+
+#u216-2
+{
+	line-height: 29px;
+}
+
+#u218
+{
+	z-index: 41;
+	width: 23px;
+	height: 23px;
+	background-repeat: repeat-x;
+	background-position: left bottom;
+	background-color: #FFFFFF;
+}
+
+#u217,#u219
+{
+	float: left;
+}
+
+#u220
+{
+	z-index: 49;
+	width: 23px;
+	height: 23px;
+	background-repeat: repeat-x;
+	background-position: left bottom;
+	background-color: #FFFFFF;
+}
+
+.rss-odd-container,.rss-even-container
+{
+	border-style: none;
+	border-color: #ADADAD;
+	background: #FFFFFF url("../images/untitled-1.png") repeat-x left bottom;
+}
+
+#u216-9,#u216-15,#u216-18,#u216-21
+{
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+}
+
+#u221
+{
+	z-index: 58;
+	width: 682px;
+	min-height: 1754px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 104px;
+	left: 322px;
 }
 
 #u192
 {
 	z-index: 23;
+	min-height: 67px;
 	padding-bottom: 28px;
 }
 
@@ -225,14 +331,14 @@
 #u192-bw
 {
 	z-index: 23;
-	margin-top: 50px;
-	height: 67px;
+	min-height: 67px;
 }
 
 body
 {
 	position: relative;
 	min-width: 1200px;
+	padding-bottom: 95px;
 }
 
 #page .verticalspacer

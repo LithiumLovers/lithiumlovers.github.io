@@ -1,27 +1,29 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1463988919371">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1463997494465" iceMarkupVersion="2" domain="http://lithiumlovers.github.io">
   <folder name="images">
-    <file name="road.jpg" crc="204221059" ref="index"/>
-    <file name="cactus.jpg" crc="3844634984" ref="index"/>
-    <file name="trees.jpg" crc="519442972" ref="index"/>
+    <file name="road.jpg" crc="3869907045" ref="index" seo="true"/>
+    <file name="cactus.jpg" crc="267755099" ref="index" seo="true"/>
+    <file name="trees.jpg" crc="247153865" ref="index" seo="true"/>
+    <file name="untitled-1.png" crc="4231729736" ref="dota"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="426517801"/>
-    <file name="master_a-master.css" crc="343631684" ref="index:dota"/>
-    <file name="index.css" crc="4194818183" ref="index"/>
-    <file name="dota.css" crc="4034190176" ref="dota"/>
+    <file name="site_global.css" crc="461458546"/>
+    <file name="master_a-master.css" crc="532507105" ref="index:dota"/>
+    <file name="index.css" crc="451498399" ref="index"/>
+    <file name="dota.css" crc="4291972152" ref="dota"/>
+    <file name="iefonts_dota.css" crc="467545989" ref="dota"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:dota"/>
-    <file name="museutils.js" crc="4136605575" ref="index:dota"/>
-    <file name="jquery.watch.js" crc="172956391" ref="index:dota"/>
-    <file name="webpro.js" crc="420478120" ref="index"/>
-    <file name="musewpslideshow.js" crc="480958572" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="184401257" ref="index"/>
-    <file name="touchswipe.js" crc="60020316" ref="index"/>
-    <file name="jquery.musemenu.js" crc="4009181048" ref="index:dota"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:dota"/>
+    <file name="museutils.js" crc="183364071" ref="index:dota"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:dota"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:dota"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:dota"/>
-    <file name="musewpdisclosure.js" crc="4228034700" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="index"/>
   </folder>
-  <file name="index.html" crc="4278325425" mt="1463988891679" redirect="true"/>
-  <file name="dota.html" crc="31025073" mt="1463988891698" redirect="true"/>
+  <file name="index.html" crc="142240138" mt="1463997389206" redirect="true" seo="true"/>
+  <file name="dota.html" crc="4120476740" mt="1463997482961" redirect="true" seo="true"/>
 </manifest>
