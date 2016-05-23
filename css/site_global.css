@@ -422,6 +422,22 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: 400;
 }
 
+.h2
+{
+	font-family: bebas-neue, sans-serif;
+	font-size: 30px;
+	font-weight: 400;
+}
+
+.Inner-Button-Text
+{
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	letter-spacing: 1px;
+}
+
 .list0 li:before
 {
 	position: absolute;

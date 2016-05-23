@@ -1,7 +1,7 @@
 .version.teamsplayers /* version checker */
 {
-	color: #0000EB;
-	background-color: #67B445;
+	color: #000005;
+	background-color: #D91FCB;
 }
 
 .html
@@ -13,13 +13,20 @@
 {
 	z-index: 1;
 	width: 1200px;
-	min-height: 405px;
+	min-height: 404.95000000000016px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-bottom: -95px;
+	width: 0.01px;
 }
 
 #u550
@@ -449,6 +456,215 @@
 	min-height: 70px;
 }
 
+#pu563-4
+{
+	width: 0.01px;
+	margin-left: 15px;
+	margin-top: 26px;
+}
+
+#u563-4
+{
+	z-index: 56;
+	width: 70px;
+	min-height: 31px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u563-2
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u563
+{
+	line-height: 36px;
+}
+
+#u564-10
+{
+	z-index: 60;
+	width: 146px;
+	min-height: 56px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 100px;
+}
+
+#pbuttonu572
+{
+	width: 0.01px;
+	margin-left: 115px;
+	margin-top: 24px;
+}
+
+#buttonu572
+{
+	z-index: 70;
+	width: 171px;
+	border-color: #787878;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/navi_logo.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu572:hover
+{
+	border-radius: 0px;
+	width: 171px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #E5E5E5 url("../images/navi_logo-buttonu572-r-fr.png") no-repeat center center;
+	background-color: rgba(84,84,84,0.15);
+	background-size: contain;
+}
+
+#buttonu572.ButtonSelected
+{
+	width: 171px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/navi_logo.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u573-15
+{
+	z-index: 71;
+	width: 170px;
+	min-height: 154px;
+	background-color: transparent;
+	font-size: 14px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 1px;
+}
+
+#buttonu572:hover #u573-15
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 154px;
+	width: 170px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu572:hover #u573-15 p
+{
+	color: #000000;
+	visibility: inherit;
+	letter-spacing: 1px;
+	font-size: 18px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#buttonu583
+{
+	z-index: 89;
+	width: 170px;
+	border-color: #787878;
+	position: relative;
+	margin-right: -10000px;
+	left: 300px;
+	background: transparent url("../images/600px-alliance.png") no-repeat center center;
+	background-size: contain;
+}
+
+#buttonu583:hover
+{
+	border-radius: 0px;
+	width: 170px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #D8D8D8 url("../images/600px-alliance-buttonu583-r-fr.png") no-repeat center center;
+	background-color: rgba(0,0,0,0.15);
+	background-size: contain;
+}
+
+#buttonu583.ButtonSelected
+{
+	width: 170px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/600px-alliance.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u584-15
+{
+	z-index: 90;
+	width: 170px;
+	min-height: 154px;
+	background-color: transparent;
+	font-size: 14px;
+	text-align: center;
+	letter-spacing: 1px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu572.ButtonSelected #u573-15,#buttonu583:hover #u584-15
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 154px;
+	width: 170px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu583.ButtonSelected #u584-15
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 154px;
+	width: 170px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu583:hover #u584-15 p
+{
+	color: #000000;
+	visibility: inherit;
+	letter-spacing: 1px;
+	font-size: 18px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#buttonu572.ButtonSelected #u573-15 p,#buttonu583.ButtonSelected #u584-15 p
+{
+	visibility: hidden;/* 100% transparent text is hidden */
+	font-size: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u573-2,#u573-3,#u573-11,#u573-13,#u584-2,#u584-3,#u584-11,#u584-13
+{
+	visibility: hidden;/* 100% transparent text is hidden */
+}
+
+#u582-3
+{
+	z-index: 86;
+	width: 20px;
+	min-height: 17px;
+	background-color: transparent;
+	margin-left: 675px;
+	margin-top: 37px;
+	position: relative;
+}
+
 #u192
 {
 	z-index: 50;
@@ -478,8 +694,7 @@
 {
 	z-index: 50;
 	min-height: 77px;
-	margin-bottom: -95px;
-	margin-top: 405px;
+	margin-top: 9px;
 }
 
 body
@@ -492,6 +707,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -405px;
 }
 

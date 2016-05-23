@@ -1,15 +1,19 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1464032645076" iceMarkupVersion="2" domain="http://lithiumlovers.github.io">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1464035231080" iceMarkupVersion="2" domain="http://lithiumlovers.github.io">
   <folder name="images">
     <file name="dota2logo.png" crc="3826049518" ref="index"/>
     <file name="the_international_2015_dota_2.jpg" crc="3799056788" ref="index"/>
+    <file name="navi_logo.png" crc="3844668305" ref="teamsplayers"/>
+    <file name="navi_logo-buttonu572-r-fr.png" crc="4237753249" ref="teamsplayers"/>
+    <file name="600px-alliance.png" crc="488227334" ref="teamsplayers"/>
+    <file name="600px-alliance-buttonu583-r-fr.png" crc="4255410311" ref="teamsplayers"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="239535122"/>
+    <file name="site_global.css" crc="86487501"/>
     <file name="master_a-master.css" crc="408861538" ref="index:dota:contact:teamsplayers:earnings:streams:media"/>
     <file name="index.css" crc="3926800627" ref="index"/>
     <file name="dota.css" crc="4060093090" ref="dota"/>
     <file name="contact.css" crc="3949442117" ref="contact"/>
-    <file name="teamsplayers.css" crc="3949442117" ref="teamsplayers"/>
+    <file name="teamsplayers.css" crc="98115531" ref="teamsplayers"/>
     <file name="earnings.css" crc="3949442117" ref="earnings"/>
     <file name="streams.css" crc="3949442117" ref="streams"/>
     <file name="media.css" crc="3949442117" ref="media"/>
@@ -20,13 +24,14 @@
     <file name="jquery.watch.js" crc="71412426" ref="index:dota:teamsplayers:streams:media:earnings:contact"/>
     <file name="jquery.musemenu.js" crc="3957776250" ref="index:dota:teamsplayers:streams:media:earnings:contact"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:dota:teamsplayers:streams:media:earnings:contact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:teamsplayers"/>
+    <file name="pie.js" crc="3827607177" ref="teamsplayers"/>
   </folder>
-  <file name="index.html" crc="527008969" mt="1464032510938" redirect="true" seo="true"/>
-  <file name="dota.html" crc="109918991" mt="1464032510938" redirect="true" seo="true"/>
-  <file name="teamsplayers.html" crc="4110661198" seo="true" mt="1464032510938" redirect="true"/>
-  <file name="streams.html" crc="3805845211" seo="true" mt="1464032510938" redirect="true"/>
-  <file name="media.html" crc="3890723046" seo="true" mt="1464032510938" redirect="true"/>
-  <file name="earnings.html" crc="4270117689" seo="true" mt="1464032510938" redirect="true"/>
-  <file name="contact.html" crc="3981917123" seo="true" mt="1464032510938" redirect="true"/>
+  <file name="index.html" crc="527008969" mt="1464032912926" redirect="true" seo="true"/>
+  <file name="dota.html" crc="109918991" mt="1464032912926" redirect="true" seo="true"/>
+  <file name="teamsplayers.html" crc="158760235" seo="true" mt="1464035097033" redirect="true"/>
+  <file name="streams.html" crc="3805845211" seo="true" mt="1464032912926" redirect="true"/>
+  <file name="media.html" crc="3890723046" seo="true" mt="1464032912926" redirect="true"/>
+  <file name="earnings.html" crc="4270117689" seo="true" mt="1464032912926" redirect="true"/>
+  <file name="contact.html" crc="3981917123" seo="true" mt="1464032912926" redirect="true"/>
 </manifest>
