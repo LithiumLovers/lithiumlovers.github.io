@@ -1,4 +1,4 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1463986865541">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1463987305499">
   <folder name="images">
     <file name="road.jpg" crc="204221059" ref="index"/>
     <file name="cactus.jpg" crc="3844634984" ref="index"/>
@@ -6,8 +6,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
-    <file name="master_a-master.css" crc="55135422" ref="index"/>
-    <file name="index.css" crc="372779843" ref="index"/>
+    <file name="master_a-master.css" crc="3770334163" ref="index"/>
+    <file name="index.css" crc="131674822" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index"/>
@@ -17,6 +17,9 @@
     <file name="musewpslideshow.js" crc="480958572" ref="index"/>
     <file name="jquery.museoverlay.js" crc="184401257" ref="index"/>
     <file name="touchswipe.js" crc="60020316" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4228034700" ref="index"/>
   </folder>
-  <file name="index.html" crc="4291778006" mt="1463986848543" redirect="true"/>
+  <file name="index.html" crc="3921846676" mt="1463987291436" redirect="true"/>
 </manifest>
