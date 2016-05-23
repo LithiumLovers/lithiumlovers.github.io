@@ -4,13 +4,6 @@
 	background-color: #333333;
 }
 
-#u550
-{
-	position: relative;
-	background: transparent url("../images/dota2logo.png") no-repeat center center;
-	background-size: contain;
-}
-
 #u75-4
 {
 	background-color: transparent;
@@ -351,19 +344,38 @@
 	position: relative;
 }
 
-#u164,#u204,#u387,#u374,#u413,#u400,#u426,#u195-4
+#u664-6
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 22px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u550,#u663
+{
+	position: relative;
+	background: transparent url("../images/dota2logo.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u164,#u204,#u387,#u374,#u413,#u400,#u426,#u662-4
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u195-2
+#u662-2
 {
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u195
+#u662
 {
-	line-height: 43px;
+	color: #FFFFFF;
+	line-height: 22px;
 }
 

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EA;
-	background-color: #0E38F3;
+	color: #00000C;
+	background-color: #FCC853;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1200px;
-	min-height: 405px;
+	min-height: 539px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -24,13 +24,13 @@
 
 #page_position_content
 {
-	margin-bottom: -95px;
+	margin-bottom: -39px;
 	width: 0.01px;
 }
 
 #u550
 {
-	z-index: 55;
+	z-index: 51;
 	width: 50px;
 	height: 50px;
 	margin-right: -10000px;
@@ -455,147 +455,431 @@
 	min-height: 70px;
 }
 
-#u497
+#slideshowu593
 {
-	z-index: 92;
-	min-height: 427px;
-	padding-bottom: 73px;
-	background: transparent url("../images/the_international_2015_dota_2.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#u497_align_to_page
-{
-	margin-left: auto;
-	margin-right: auto;
-	width: 1200px;
-	position: relative;
+	z-index: 69;
+	width: 0.01px;
+	height: 500px;
 	left: -100px;
+	position: relative;
 }
 
-#u527-6
+#u605
+{
+	position: absolute;
+	width: 1400px;
+	height: 500px;
+	background-color: transparent;
+}
+
+#u605popup
+{
+	z-index: 70;
+}
+
+#u606
+{
+	z-index: 71;
+	width: 1400px;
+	height: 500px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u620
+{
+	z-index: 73;
+	width: 1400px;
+	height: 500px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #4F4F4F;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u598
+{
+	position: absolute;
+	width: 485px;
+	background-color: transparent;
+	top: 400px;
+	left: 915px;
+}
+
+#u598popup
+{
+	z-index: 75;
+}
+
+#u599-6
+{
+	z-index: 76;
+	width: 465px;
+	min-height: 80px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 10px 0px 0px 0px ;
+	padding: 10px;
+	color: #FFFFFF;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u599-2
+{
+	font-size: 30px;
+	line-height: 42px;
+}
+
+#u626-7
+{
+	z-index: 82;
+	width: 465px;
+	min-height: 80px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 10px 0px 0px 0px ;
+	padding: 10px;
+	color: #FFFFFF;
+	font-size: 30px;
+	line-height: 42px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u626-3
+{
+	line-height: 42px;
+}
+
+#u599-4,#u626-4
+{
+	font-size: 24px;
+	line-height: 34px;
+}
+
+#u600-4
+{
+	position: absolute;
+	width: 10px;
+	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 10px;
+	color: #999999;
+	text-align: center;
+	line-height: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	top: 148px;
+}
+
+#u600-4popup
+{
+	z-index: 89;
+}
+
+#u603-4
+{
+	position: absolute;
+	width: 10px;
+	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 10px;
+	color: #999999;
+	text-align: center;
+	line-height: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	top: 128px;
+	left: 1370px;
+}
+
+#u603-4popup
 {
 	z-index: 93;
-	width: 540px;
-	min-height: 111px;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#pu629-4
+{
+	width: 0.01px;
+	margin-left: 15px;
+	margin-top: 58px;
+}
+
+#u629-4
+{
+	z-index: 97;
+	width: 215px;
+	min-height: 49px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 316px;
-	left: 397px;
 }
 
-#u527-2,#u527-4
+#u645-4
 {
-	color: #FFFFFF;
-}
-
-#u497-bw
-{
-	z-index: 92;
-	min-height: 427px;
-}
-
-#ppu438-6
-{
-	width: 0.01px;
-	margin-left: 35px;
-	margin-top: 35px;
-}
-
-#pu438-6
-{
-	width: 0.01px;
+	z-index: 113;
+	width: 240px;
+	min-height: 25px;
+	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
+	left: 800px;
 }
 
-#u438-6
-{
-	z-index: 56;
-	width: 270px;
-	min-height: 442px;
-	background-color: transparent;
-	line-height: 18px;
-	margin-left: 45px;
-	position: relative;
-}
-
-#u450-6
-{
-	z-index: 80;
-	width: 300px;
-	min-height: 493px;
-	background-color: transparent;
-	line-height: 22px;
-	margin-top: 61px;
-	position: relative;
-}
-
-#pu444-6
+#ppu630
 {
 	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 443px;
-	margin-left: 400px;
+	margin-left: 15px;
+	margin-top: 26px;
 }
 
-#u444-6
-{
-	z-index: 68;
-	width: 300px;
-	min-height: 492px;
-	background-color: transparent;
-	line-height: 18px;
-	position: relative;
-}
-
-#u453-6
-{
-	z-index: 86;
-	width: 300px;
-	min-height: 499px;
-	background-color: transparent;
-	line-height: 18px;
-	margin-top: 80px;
-	position: relative;
-}
-
-#pu441-6
+#pu630
 {
 	width: 0.01px;
 	padding-bottom: 0px;
 	margin-right: -10000px;
-	margin-top: 61px;
-	margin-left: 750px;
+	margin-top: 10px;
 }
 
-#u441-6
+#u630
 {
-	z-index: 62;
-	width: 270px;
-	min-height: 400px;
+	z-index: 101;
+	width: 570px;
 	background-color: transparent;
-	line-height: 19px;
 	position: relative;
 }
 
-#u447-6
+#u632
 {
-	z-index: 74;
+	z-index: 102;
+	width: 201px;
+	height: 198px;
+	position: relative;
+	margin-right: -10000px;
+	left: -1px;
+	background: transparent url("../images/330px-team_secret_roster_redbull_bg.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u639-10
+{
+	z-index: 103;
+	width: 568px;
+	min-height: 158px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 202px;
+}
+
+#u656
+{
+	z-index: 148;
+	width: 570px;
+	background-color: transparent;
+	margin-left: 3px;
+	margin-top: 52px;
+	position: relative;
+}
+
+#u657
+{
+	z-index: 149;
+	width: 201px;
+	height: 198px;
+	position: relative;
+	margin-right: -10000px;
+	left: -1px;
+	background: transparent url("../images/330px-team_secret_roster_redbull_bg.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u658-10
+{
+	z-index: 150;
+	width: 568px;
+	min-height: 135px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 202px;
+}
+
+#ppu646
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-left: 803px;
+}
+
+#pu646
+{
+	width: 0.01px;
+}
+
+#u646
+{
+	z-index: 117;
+	width: 167px;
+	min-height: 133px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u648-5
+{
+	z-index: 118;
+	width: 172px;
+	min-height: 133px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 197px;
+}
+
+#pu649
+{
+	width: 0.01px;
+	margin-top: 52px;
+}
+
+#u649
+{
+	z-index: 123;
+	width: 167px;
+	min-height: 133px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u651-12
+{
+	z-index: 124;
+	width: 172px;
+	min-height: 133px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 200px;
+}
+
+#u652-4
+{
+	z-index: 136;
+	width: 240px;
+	min-height: 25px;
+	background-color: transparent;
+	margin-left: 1px;
+	margin-top: 46px;
+	position: relative;
+}
+
+#ppu659-4
+{
+	width: 0.01px;
+	margin-left: 15px;
+	margin-top: -1px;
+}
+
+#pu659-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 49px;
+}
+
+#u659-4
+{
+	z-index: 160;
+	width: 215px;
+	min-height: 49px;
+	background-color: transparent;
+	margin-left: 1px;
+	position: relative;
+}
+
+#u626-5,#u629-2,#u645-2,#u639-2,#u658-2,#u652-2,#u659-2
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u629,#u645,#u639,#u658,#u652,#u659
+{
+	line-height: 36px;
+}
+
+#u453-6
+{
+	z-index: 63;
 	width: 300px;
-	min-height: 492px;
+	min-height: 340px;
 	background-color: transparent;
-	line-height: 19px;
-	margin-left: 65px;
-	margin-top: 54px;
+	line-height: 18px;
+	margin-top: 12px;
 	position: relative;
+}
+
+#u661-6
+{
+	z-index: 164;
+	width: 300px;
+	min-height: 340px;
+	background-color: transparent;
+	line-height: 18px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 110px;
+	left: 376px;
+}
+
+#u655-8
+{
+	z-index: 140;
+	width: 367px;
+	min-height: 203px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 803px;
 }
 
 #u192
 {
 	z-index: 50;
-	min-height: 77px;
-	padding-bottom: 18px;
+	min-height: 87px;
+	padding-bottom: 86px;
 }
 
 #u73_align_to_page,#u192_align_to_page
@@ -606,28 +890,50 @@
 	left: -100px;
 }
 
-#u195-4
+#u664-6
 {
-	z-index: 51;
-	width: 284px;
-	min-height: 44px;
+	z-index: 57;
+	width: 216px;
+	min-height: 33px;
 	margin-right: -10000px;
-	margin-top: 33px;
+	margin-top: 41px;
 	left: 115px;
+}
+
+#pu663
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	margin-left: 575px;
+}
+
+#u663
+{
+	z-index: 56;
+	width: 50px;
+	height: 50px;
+	margin-left: 50px;
+}
+
+#u662-4
+{
+	z-index: 52;
+	width: 133px;
+	min-height: 25px;
+	margin-top: 10px;
 }
 
 #u192-bw
 {
 	z-index: 50;
-	min-height: 77px;
-	margin-top: 1px;
+	min-height: 87px;
 }
 
 body
 {
 	position: relative;
 	min-width: 1200px;
-	padding-bottom: 95px;
 }
 
 #page .verticalspacer

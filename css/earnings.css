@@ -1,7 +1,7 @@
 .version.earnings /* version checker */
 {
-	color: #0000EB;
-	background-color: #67B445;
+	color: #0000F9;
+	background-color: #CBC734;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1200px;
-	min-height: 405px;
+	min-height: 539px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -24,7 +24,7 @@
 
 #u550
 {
-	z-index: 55;
+	z-index: 51;
 	width: 50px;
 	height: 50px;
 	margin-right: -10000px;
@@ -452,8 +452,8 @@
 #u192
 {
 	z-index: 50;
-	min-height: 77px;
-	padding-bottom: 18px;
+	min-height: 86px;
+	padding-bottom: 87px;
 }
 
 #u73_align_to_page,#u192_align_to_page
@@ -464,34 +464,57 @@
 	left: -100px;
 }
 
-#u195-4
+#u664-6
 {
-	z-index: 51;
-	width: 284px;
-	min-height: 44px;
+	z-index: 57;
+	width: 216px;
+	min-height: 33px;
 	margin-right: -10000px;
-	margin-top: 33px;
+	margin-top: 41px;
 	left: 115px;
+}
+
+#pu663
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	margin-left: 575px;
+}
+
+#u663
+{
+	z-index: 56;
+	width: 50px;
+	height: 50px;
+	margin-left: 50px;
+}
+
+#u662-4
+{
+	z-index: 52;
+	width: 133px;
+	min-height: 25px;
+	margin-top: 10px;
 }
 
 #u192-bw
 {
 	z-index: 50;
-	min-height: 77px;
-	margin-bottom: -95px;
-	margin-top: 405px;
+	min-height: 86px;
+	margin-bottom: -39px;
+	margin-top: 457px;
 }
 
 body
 {
 	position: relative;
 	min-width: 1200px;
-	padding-bottom: 95px;
 }
 
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -405px;
+	margin-bottom: -456px;
 }
 

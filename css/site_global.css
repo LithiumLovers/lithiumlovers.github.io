@@ -438,6 +438,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	letter-spacing: 1px;
 }
 
+.texto-normal
+{
+	font-family: ubuntu, sans-serif;
+	font-weight: 500;
+}
+
 .list0 li:before
 {
 	position: absolute;
