@@ -325,6 +325,103 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px 0px 12px;
 }
 
+.ts01-Body-Sans-Basic
+{
+	color: #41414B;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-size: 15px;
+	text-indent: 20px;
+	padding: 0px 0px 12px;
+}
+
+.ts01-Body-Serif-Basic
+{
+	color: #41414B;
+	font-family: Times, Times New Roman, Georgia, serif;
+	font-size: 16px;
+	text-indent: 20px;
+	padding: 0px 0px 12px;
+}
+
+.ts02-Body-Sans-Modern
+{
+	color: #41414B;
+	font-family: comfortaa, sans-serif;
+	font-size: 15px;
+	font-weight: 700;
+	text-indent: 20px;
+	padding: 0px 0px 12px;
+}
+
+.ts02-Body-Serif-Modern
+{
+	color: #41414B;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	font-size: 16px;
+	text-indent: 20px;
+	padding: 0px 0px 12px;
+}
+
+.ts05-Body-Handwriting
+{
+	color: #41414B;
+	font-family: annie-use-your-telescope, sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	text-indent: 20px;
+	padding: 0px 0px 12px;
+}
+
+.ts04-Body-Sans-Light
+{
+	color: #41414B;
+	font-family: quicksand, sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+	text-indent: 20px;
+	padding: 0px 0px 12px;
+}
+
+.quote---text
+{
+	color: #25C4AA;
+	font-family: open-sans, sans-serif;
+	font-size: 36px;
+	font-weight: 300;
+	text-align: center;
+	padding: 0px;
+}
+
+.ts04-Subtitle-Comfortea-Bold
+{
+	color: #41424B;
+	font-family: comfortaa, sans-serif;
+	font-size: 23px;
+	font-weight: 700;
+	line-height: 23px;
+	text-align: center;
+	padding: 0px;
+}
+
+.ts04-Title-Raleway-Thin
+{
+	color: #41424B;
+	font-family: raleway, sans-serif;
+	font-size: 70px;
+	font-weight: 100;
+	line-height: 70px;
+	text-align: center;
+	padding: 0px;
+}
+
+.Site-Header-Footer
+{
+	color: #FFFFFF;
+	font-family: bebas-neue, sans-serif;
+	font-size: 36px;
+	font-weight: 400;
+}
+
 .list0 li:before
 {
 	position: absolute;

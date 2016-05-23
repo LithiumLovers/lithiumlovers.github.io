@@ -1,7 +1,7 @@
-.version.index /* version checker */
+.version.earnings /* version checker */
 {
-	color: #0000EA;
-	background-color: #0E38F3;
+	color: #0000EB;
+	background-color: #67B445;
 }
 
 .html
@@ -20,12 +20,6 @@
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-#page_position_content
-{
-	margin-bottom: -95px;
-	width: 0.01px;
 }
 
 #u550
@@ -455,142 +449,6 @@
 	min-height: 70px;
 }
 
-#u497
-{
-	z-index: 92;
-	min-height: 427px;
-	padding-bottom: 73px;
-	background: transparent url("../images/the_international_2015_dota_2.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#u497_align_to_page
-{
-	margin-left: auto;
-	margin-right: auto;
-	width: 1200px;
-	position: relative;
-	left: -100px;
-}
-
-#u527-6
-{
-	z-index: 93;
-	width: 540px;
-	min-height: 111px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 316px;
-	left: 397px;
-}
-
-#u527-2,#u527-4
-{
-	color: #FFFFFF;
-}
-
-#u497-bw
-{
-	z-index: 92;
-	min-height: 427px;
-}
-
-#ppu438-6
-{
-	width: 0.01px;
-	margin-left: 35px;
-	margin-top: 35px;
-}
-
-#pu438-6
-{
-	width: 0.01px;
-	margin-right: -10000px;
-}
-
-#u438-6
-{
-	z-index: 56;
-	width: 270px;
-	min-height: 442px;
-	background-color: transparent;
-	line-height: 18px;
-	margin-left: 45px;
-	position: relative;
-}
-
-#u450-6
-{
-	z-index: 80;
-	width: 300px;
-	min-height: 493px;
-	background-color: transparent;
-	line-height: 22px;
-	margin-top: 61px;
-	position: relative;
-}
-
-#pu444-6
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 443px;
-	margin-left: 400px;
-}
-
-#u444-6
-{
-	z-index: 68;
-	width: 300px;
-	min-height: 492px;
-	background-color: transparent;
-	line-height: 18px;
-	position: relative;
-}
-
-#u453-6
-{
-	z-index: 86;
-	width: 300px;
-	min-height: 499px;
-	background-color: transparent;
-	line-height: 18px;
-	margin-top: 80px;
-	position: relative;
-}
-
-#pu441-6
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 61px;
-	margin-left: 750px;
-}
-
-#u441-6
-{
-	z-index: 62;
-	width: 270px;
-	min-height: 400px;
-	background-color: transparent;
-	line-height: 19px;
-	position: relative;
-}
-
-#u447-6
-{
-	z-index: 74;
-	width: 300px;
-	min-height: 492px;
-	background-color: transparent;
-	line-height: 19px;
-	margin-left: 65px;
-	margin-top: 54px;
-	position: relative;
-}
-
 #u192
 {
 	z-index: 50;
@@ -620,7 +478,8 @@
 {
 	z-index: 50;
 	min-height: 77px;
-	margin-top: 1px;
+	margin-bottom: -95px;
+	margin-top: 405px;
 }
 
 body
@@ -633,5 +492,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
+	margin-bottom: -405px;
 }
 

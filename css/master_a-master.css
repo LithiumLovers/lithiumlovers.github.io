@@ -1,16 +1,14 @@
 #u73
 {
 	border-color: #000000;
-	background-color: #42410B;
+	background-color: #333333;
 }
 
-#u74-3
+#u550
 {
-	background-color: transparent;
-	font-size: 36px;
-	color: #FFFFFF;
-	line-height: 43px;
 	position: relative;
+	background: transparent url("../images/dota2logo.png") no-repeat center center;
+	background-size: contain;
 }
 
 #u75-4
@@ -34,18 +32,18 @@
 
 #u165
 {
-	background-color: #C4C4C4;
+	background-color: #333333;
 	position: relative;
 }
 
 #u165:hover
 {
-	background-color: #999999;
+	background-color: #FFFFFF;
 }
 
 #u165:active
 {
-	background-color: #6B6B6B;
+	background-color: #666666;
 }
 
 #u167-4
@@ -53,37 +51,41 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
+	line-height: 22px;
 	color: #FFFFFF;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-size: 18px;
+	text-align: center;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
 	position: relative;
 }
 
-#u164,#u204
+#u165:hover #u167-4 p
 {
-	background-color: transparent;
-	position: relative;
+	color: #333333;
+	visibility: inherit;
+}
+
+#u165:active #u167-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
 }
 
 #u207
 {
-	background-color: #C4C4C4;
+	background-color: #333333;
 	position: relative;
 }
 
 #u165.MuseMenuActive,#u207:hover
 {
-	background-color: #999999;
+	background-color: #FFFFFF;
 }
 
 #u207:active
 {
-	background-color: #6B6B6B;
-}
-
-#u207.MuseMenuActive
-{
-	background-color: #999999;
+	background-color: #666666;
 }
 
 #u210-4
@@ -91,10 +93,246 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
+	line-height: 22px;
 	color: #FFFFFF;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-size: 18px;
+	text-align: center;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
 	position: relative;
+}
+
+#u165.MuseMenuActive #u167-4 p,#u207:hover #u210-4 p
+{
+	color: #333333;
+	visibility: inherit;
+}
+
+#u207:active #u210-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u388
+{
+	background-color: #333333;
+	position: relative;
+}
+
+#u207.MuseMenuActive,#u388:hover
+{
+	background-color: #FFFFFF;
+}
+
+#u388:active
+{
+	background-color: #666666;
+}
+
+#u391-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	text-align: center;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u207.MuseMenuActive #u210-4 p,#u388:hover #u391-4 p
+{
+	color: #333333;
+	visibility: inherit;
+}
+
+#u388:active #u391-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u375
+{
+	background-color: #333333;
+	position: relative;
+}
+
+#u388.MuseMenuActive,#u375:hover
+{
+	background-color: #FFFFFF;
+}
+
+#u375:active
+{
+	background-color: #666666;
+}
+
+#u378-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	text-align: center;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u388.MuseMenuActive #u391-4 p,#u375:hover #u378-4 p
+{
+	color: #333333;
+	visibility: inherit;
+}
+
+#u375:active #u378-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u416
+{
+	background-color: #333333;
+	position: relative;
+}
+
+#u375.MuseMenuActive,#u416:hover
+{
+	background-color: #FFFFFF;
+}
+
+#u416:active
+{
+	background-color: #666666;
+}
+
+#u417-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	text-align: center;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u375.MuseMenuActive #u378-4 p,#u416:hover #u417-4 p
+{
+	color: #333333;
+	visibility: inherit;
+}
+
+#u416:active #u417-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u403
+{
+	background-color: #333333;
+	position: relative;
+}
+
+#u416.MuseMenuActive,#u403:hover
+{
+	background-color: #FFFFFF;
+}
+
+#u403:active
+{
+	background-color: #666666;
+}
+
+#u404-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	text-align: center;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u416.MuseMenuActive #u417-4 p,#u403:hover #u404-4 p
+{
+	color: #333333;
+	visibility: inherit;
+}
+
+#u403:active #u404-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u427
+{
+	background-color: #333333;
+	position: relative;
+}
+
+#u403.MuseMenuActive,#u427:hover
+{
+	background-color: #FFFFFF;
+}
+
+#u427:active
+{
+	background-color: #666666;
+}
+
+#u427.MuseMenuActive
+{
+	background-color: #FFFFFF;
+}
+
+#u428-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	text-align: center;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u403.MuseMenuActive #u404-4 p,#u427:hover #u428-4 p
+{
+	color: #333333;
+	visibility: inherit;
+}
+
+#u427:active #u428-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u427.MuseMenuActive #u428-4 p
+{
+	color: #333333;
+	visibility: inherit;
 }
 
 .MenuItem /* unifiedNavBar */
@@ -105,7 +343,7 @@
 #u192
 {
 	border-color: #000000;
-	background-color: #8CC63F;
+	background-color: #666666;
 }
 
 #u73_align_to_page,#u192_align_to_page
@@ -113,13 +351,19 @@
 	position: relative;
 }
 
-#u195-4
+#u164,#u204,#u387,#u374,#u413,#u400,#u426,#u195-4
 {
 	background-color: transparent;
-	font-size: 30px;
-	line-height: 36px;
-	font-family: alfa-slab-one, serif;
-	font-weight: 400;
 	position: relative;
+}
+
+#u195-2
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u195
+{
+	line-height: 43px;
 }
 

@@ -1,31 +1,32 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1464001335339" iceMarkupVersion="2" domain="http://lithiumlovers.github.io">
-  <folder name="assets">
-    <file name="client.php" crc="4260735005" seo="true" mt="1464001073000"/>
-  </folder>
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1464032645076" iceMarkupVersion="2" domain="http://lithiumlovers.github.io">
   <folder name="images">
-    <file name="road.jpg" crc="3869907045" ref="index" seo="true"/>
-    <file name="cactus.jpg" crc="267755099" ref="index" seo="true"/>
-    <file name="trees.jpg" crc="247153865" ref="index" seo="true"/>
-    <file name="reblogbuttonnormal.png" crc="4011374303" ref="dota"/>
+    <file name="dota2logo.png" crc="3826049518" ref="index"/>
+    <file name="the_international_2015_dota_2.jpg" crc="3799056788" ref="index"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="226759241"/>
-    <file name="master_a-master.css" crc="532507105" ref="index:dota"/>
-    <file name="index.css" crc="451498399" ref="index"/>
-    <file name="dota.css" crc="3873801137" ref="dota"/>
+    <file name="site_global.css" crc="239535122"/>
+    <file name="master_a-master.css" crc="408861538" ref="index:dota:contact:teamsplayers:earnings:streams:media"/>
+    <file name="index.css" crc="3926800627" ref="index"/>
+    <file name="dota.css" crc="4060093090" ref="dota"/>
+    <file name="contact.css" crc="3949442117" ref="contact"/>
+    <file name="teamsplayers.css" crc="3949442117" ref="teamsplayers"/>
+    <file name="earnings.css" crc="3949442117" ref="earnings"/>
+    <file name="streams.css" crc="3949442117" ref="streams"/>
+    <file name="media.css" crc="3949442117" ref="media"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:dota"/>
-    <file name="museutils.js" crc="183364071" ref="index:dota"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index:dota"/>
-    <file name="webpro.js" crc="3803554875" ref="index"/>
-    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
-    <file name="touchswipe.js" crc="4038331989" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3957776250" ref="index:dota"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:dota"/>
-    <file name="musewpdisclosure.js" crc="3993616448" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:dota:teamsplayers:streams:media:earnings:contact"/>
+    <file name="museutils.js" crc="183364071" ref="index:dota:teamsplayers:streams:media:earnings:contact"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:dota:teamsplayers:streams:media:earnings:contact"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:dota:teamsplayers:streams:media:earnings:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:dota:teamsplayers:streams:media:earnings:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
   </folder>
-  <file name="index.html" crc="142240138" mt="1463997389206" redirect="true" seo="true"/>
-  <file name="dota.html" crc="3873570339" mt="1464001225776" redirect="true" seo="true"/>
+  <file name="index.html" crc="527008969" mt="1464032510938" redirect="true" seo="true"/>
+  <file name="dota.html" crc="109918991" mt="1464032510938" redirect="true" seo="true"/>
+  <file name="teamsplayers.html" crc="4110661198" seo="true" mt="1464032510938" redirect="true"/>
+  <file name="streams.html" crc="3805845211" seo="true" mt="1464032510938" redirect="true"/>
+  <file name="media.html" crc="3890723046" seo="true" mt="1464032510938" redirect="true"/>
+  <file name="earnings.html" crc="4270117689" seo="true" mt="1464032510938" redirect="true"/>
+  <file name="contact.html" crc="3981917123" seo="true" mt="1464032510938" redirect="true"/>
 </manifest>
