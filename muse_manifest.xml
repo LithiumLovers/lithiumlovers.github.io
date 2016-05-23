@@ -1,4 +1,4 @@
-<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1463988396416">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1463988567772">
   <folder name="images">
     <file name="road.jpg" crc="204221059" ref="index"/>
     <file name="cactus.jpg" crc="3844634984" ref="index"/>
